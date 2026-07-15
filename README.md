@@ -11,5 +11,5 @@ Working through the [StatQuest Neural Networks playlist](https://www.youtube.com
 1 / 16 videos completed
 
 ## About
-Jiayi Wang · PhD Candidate, University of South Florida  
+Jiayi Wang · PhD Student, University of South Florida  
 Research: Multimodal Affective Computing & AI for Health Sensing
