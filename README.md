@@ -1,6 +1,6 @@
 # Neural Networks Study Notes
 
-Live site: https://yourusername.github.io/nn-notes
+Live site: https://jiayiwang9395.github.io/nn-notes
 
 Working through the [StatQuest Neural Networks playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) and distilling each video into:
 - Core concepts in my own words
